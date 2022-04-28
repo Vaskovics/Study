@@ -1,0 +1,15 @@
+ls
+cd
+git init
+git remote add origin <gitlink>
+git remote -v
+git add
+git commit -m "First commit"
+git push orogin master
+
+git help
+
+add file to global repositories:
+1. git remote add origin https://github.com/Vaskovics/JavaScript
+2. git push -u origin master
+pwd - print working dirictories
